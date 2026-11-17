@@ -1,0 +1,8 @@
+LQR WEIGHTING SENSITIVITY STUDY RESULTS
+
+Configuration,Settling_Time_s,Max_Cart_m,Peak_Force_N,ISE,ICE,K1,K2,K3,K4
+Baseline (Bryson),0.930,0.143,15.00,3.2459e-03,5.918,-20.00,-22.89,-113.63,-21.17
+High Angle Penalty (q3 x 10),0.735,0.125,15.00,2.1563e-03,10.373,-20.00,-29.91,-204.15,-25.62
+High Cart Penalty (q1 x 10),0.675,0.118,15.00,3.3913e-03,9.632,-63.25,-44.75,-157.63,-29.18
+High Control Cost (R x 10),1.090,0.184,8.82,4.6899e-03,3.137,-6.32,-7.92,-50.51,-9.26
+Low Control Cost (R / 10),0.900,0.136,15.00,2.9057e-03,8.122,-63.25,-70.52,-317.80,-59.72

@@ -1,0 +1,19 @@
+# MATLAB specific
+*.asv
+*.slxc
+*.autosave
+slprj/
+*.mex*
+*.mat~
+*.fig~
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Windows crash dumps
+*.dmp
+*.crash

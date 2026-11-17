@@ -1,0 +1,14 @@
+LQR vs PID BENCHMARK PERFORMANCE COMPARISON
+Initial Condition: theta0 = 10 deg, p0 = 0 m
+
+Metric,LQR,PID
+Stabilized,YES,YES
+Settling_Time_s,0.930,0.330
+Peak_Angle_deg,10.00,10.00
+Final_Angle_deg,8.3098e-04,0.0648
+Max_Cart_Disp_m,0.143,1.496
+Final_Cart_Pos_m,-0.0000,1.4964
+Track_Exceeded,NO,YES
+Peak_Force_N,15.00,14.84
+ISE,3.2459e-03,2.9063e-03
+ICE,5.918,3.516
